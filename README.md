@@ -69,9 +69,16 @@ The README.md file will be generated
 
 ## Screenshots
 ![readmeChallenge](https://github.com/SwathiVinod19/readme-generator/assets/129353324/c80173cd-456f-4325-a807-368ace223215)
+
+screenshot of the README.md generated
+
 ![readmeChallenge2](https://github.com/SwathiVinod19/readme-generator/assets/129353324/c52518ea-9166-4a0a-b721-e3a0640c2437)
 
+screenshot of the README.md generated
 
+![readme-prompts](https://github.com/SwathiVinod19/readme-generator/assets/129353324/44808855-a487-480c-8b41-9873fd5dd80e)
+
+example of the prompts
 
 ## Walkthrough video
 [walkthrough video link](https://drive.google.com/file/d/1OC_2rtkCI1SM82qwbfFSxDRJT4xRQ8iR/view)
