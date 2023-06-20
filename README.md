@@ -20,6 +20,10 @@ This application creates a professional readme using Node js. The user will be a
 
 [Links](#Links)
 
+[References](#References)
+
+[Acknowledgements](#Acknowledgements)
+
 ## License and Badge
 MIT License 
 ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
@@ -91,6 +95,11 @@ Github profile link : https://github.com/SwathiVinod19
 
 Video link : https://drive.google.com/file/d/1OC_2rtkCI1SM82qwbfFSxDRJT4xRQ8iR/view
 
+## References
+W3 schools, Professional README Guide, class videos 
+
+## Acknowledgements
+I would like to thank my tutor and peers for their support and guidance and my family for being patient with me.
 
 
 
