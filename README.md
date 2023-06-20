@@ -62,8 +62,9 @@ GIVEN a command-line application that accepts user input
 ## Installation
 To install the readme-generator, the user needs to follow these steps:
 1. clone the repository to you local machine
-2. Navigate to index.js
+2. install inquirer, using npm i inquirer@8.2.4.
 3. Install the dependencies using the command "npm install"
+4. Navigate to index.js and type in "node index.js" to start the project.
 
 ## Usage
 Run the readme-generator using the command line "node index.js" in the terminal
