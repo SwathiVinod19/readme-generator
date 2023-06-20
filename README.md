@@ -5,12 +5,19 @@ A professional readme generator that generates personalized readme for apps usin
 This application creates a professional readme using Node js. The user will be asked multiple questions about the project via prompts. He/she has to type in relevant information in the terminal and the application generates a professional README markdown file based on the user's inputs.
 
 ## Table of contents
+
 [User Story](#User-story)
+
 [Acceptance Criteria](#Acceptance-criteria)
+
 [Installation](#Installation)
+
 [Usage](#Usage)
+
 [Screenshots](#Screenshots)
+
 [Walkthrough Video](#Walkthrough-video)
+
 [Links](#Links)
 
 ## License and Badge
