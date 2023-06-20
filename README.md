@@ -1,8 +1,8 @@
 # readme-generator
-A professional readme generator that generates personalized readme for apps using a command-line application.
+A professional readme generator that dynamically generates a professional README.md file from a user's input using the Inquirer package
 
 # Description
-This application creates a professional readme using Node js. The user will be asked multiple questions about the project via prompts. He/she has to type in relevant information in the terminal and the application generates a professional README markdown file based on the user's inputs.
+This application creates a professional readme using Node js v16. The user will be asked multiple questions about the project via prompts. He/she has to type in relevant information in the terminal and the application generates a professional README markdown file based on the user's inputs.
 
 ## Table of contents
 
